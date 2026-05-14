@@ -24,24 +24,23 @@ This project is a Hospital Information System developed for UW-Milwaukee course 
 
 ### Administrative Functions
 - Monitor provider workload
-- Monitor department revenue
+- Count visits by date
 
 ### Management Functions
 - Generate patient statistics
-- Visualize average age by gender
+- Monitor department revenue
 
 ## Technologies Used
 
 - Python
 - Tkinter
 - Matplotlib
-- CSV-based data storage
 - Object-Oriented Programming
 
 ## Repository Structure
 
 ```text
-FinalProject/
+HI741_FinalProject/
 │
 ├── data/
 ├── outputs/
@@ -49,7 +48,7 @@ FinalProject/
 ├── main.py
 ├── README.md
 ├── requirements.txt
-└── uml_diagram.png
+└── uml_diagram.pdf
 ```
 
 ## How to Run
@@ -97,5 +96,5 @@ And updates:
 The UML diagram for the object-oriented class structure is included in the repository as:
 
 ```text
-uml_diagram.png
+uml_diagram.pdf
 ```
